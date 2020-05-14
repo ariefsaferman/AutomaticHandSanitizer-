@@ -19,6 +19,8 @@ lama waktu untuk mencuci tangan pada layar LCD 16X2
 maka LCD akan menampilkan sebuah string "You're done"
 sebagai tanda bahwa tangan kita sudah dicuci sesuai 
 standar waktu yang telah ditentukan. 
+![image](https://user-images.githubusercontent.com/56531526/81879490-288a6880-95b5-11ea-8a5d-0feea936f342.png)
+
 ## Link Simulasi 
 [Simulasi Proyek](https://www.youtube.com/watch?v=v_T37xK5XOo&t=1278s)
 
